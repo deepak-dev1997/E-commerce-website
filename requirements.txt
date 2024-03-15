@@ -2,4 +2,5 @@ flask==3.0.2
 Flask-SQLAlchemy==3.1.1
 flask-wtf==1.2.1
 email_validator==2.1.1
-flask_bcrypt
+flask_bcrypt==4.1.2
+flask_login==0.6.3
